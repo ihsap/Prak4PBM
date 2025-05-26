@@ -17,7 +17,7 @@
 
 ## Tampilan Aplikasi
 - 🖼️ Tampilan Awal  
-  ![Tampilan Awal](assets/screenshots/tampilan_awal.png)
+  ![Tampilan Awal](pictures/screenshoot/home.png)
 
 - 🎯 Tampilan Akhir  
   ![Tampilan Akhir](assets/screenshots/tampilan_akhir.png)
